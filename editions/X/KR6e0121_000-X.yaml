@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0121/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經文義要決問答
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X08/X08n0237.xml
+    old_id: X08n0237
+hash: sha256:4a3b502eb6a8910c9671b76a4b2aa8b525ede9de6e24e02ef6e2f7fa0f1e2b83

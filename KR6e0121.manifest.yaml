@@ -1,0 +1,798 @@
+canonical_identifier: bkk:krp/KR6e0121/v1
+canonical_location: https://kanripo.org/bkk/KR6e0121/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華嚴經文義要決問答
+  identifiers:
+    alt_id:
+    - X08n0237
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X08/X08n0237.xml
+    old_id: X08n0237
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0121_000.yaml, hash: 'sha256:4a3b502eb6a8910c9671b76a4b2aa8b525ede9de6e24e02ef6e2f7fa0f1e2b83'}
+  - {seq: 1, filename: KR6e0121_001.yaml, hash: 'sha256:0ba79bd63071891ff9580f8e786686fe51b07c0fda205eb6ed1bb7c24f41e673'}
+  - {seq: 2, filename: KR6e0121_002.yaml, hash: 'sha256:848b95fb42494feb1f910a57388edcdbb1536362d08b9e0e01b52c0e04e0683b'}
+  - {seq: 3, filename: KR6e0121_003.yaml, hash: 'sha256:774c64538593b608aecf47f0e6f706f06290da8696ab55e794170f0bba17f29b'}
+  - {seq: 4, filename: KR6e0121_004.yaml, hash: 'sha256:51221adb8ddeb143b119b38abeed01d01073d75405834fbf9f9dcde130e182de'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0121_001.markers.yaml, hash: 'sha256:8fed85667f1928ec412805f1ceb2f2aee551c282d47c5318738b0e4b32d17ba3'}
+  - {seq: 2, role: markers, filename: assets/KR6e0121_002.markers.yaml, hash: 'sha256:4dd8809783a47ad8b871baa76a031b272995c57d609e82933037f79fe36b75ce'}
+  - {seq: 3, role: markers, filename: assets/KR6e0121_003.markers.yaml, hash: 'sha256:3355c366dc899375fedb6849af119d86665b26df69aaa52261b48149ae5dccfe'}
+  - {seq: 4, role: markers, filename: assets/KR6e0121_004.markers.yaml, hash: 'sha256:a0fd980da8bfe041e07a555875fd4911a4ab520838fc26bceee9b3a8822d7a48'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10708
+  label: 華嚴經文義要決問答卷第一五科入
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 七處九會義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-2
+    span:
+    - body
+    - 30
+    - 30
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-3
+    span:
+    - body
+    - 100
+    - 100
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-4
+    span:
+    - body
+    - 223
+    - 223
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-5
+    span:
+    - body
+    - 3056
+    - 3056
+  label: 說經時義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-6
+    span:
+    - body
+    - 3064
+    - 3064
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-7
+    span:
+    - body
+    - 3155
+    - 3155
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-8
+    span:
+    - body
+    - 3202
+    - 3202
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-9
+    span:
+    - body
+    - 4360
+    - 4360
+  label: 說經佛義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-10
+    span:
+    - body
+    - 4368
+    - 4368
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-11
+    span:
+    - body
+    - 4591
+    - 4591
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-12
+    span:
+    - body
+    - 4693
+    - 4693
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-13
+    span:
+    - body
+    - 5888
+    - 5888
+  label: 六相義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-14
+    span:
+    - body
+    - 5895
+    - 5895
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-15
+    span:
+    - body
+    - 6001
+    - 6001
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-16
+    span:
+    - body
+    - 6062
+    - 6062
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-17
+    span:
+    - body
+    - 8410
+    - 8410
+  label: 數十錢喻義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-18
+    span:
+    - body
+    - 8419
+    - 8419
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-19
+    span:
+    - body
+    - 8477
+    - 8477
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0121_X_001-mulu-20
+    span:
+    - body
+    - 8493
+    - 8493
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11883
+  label: 華嚴經文義要決問答卷第二六科入
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 緣起義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-3
+    span:
+    - body
+    - 56
+    - 56
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-4
+    span:
+    - body
+    - 199
+    - 199
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-5
+    span:
+    - body
+    - 3012
+    - 3012
+  label: 探玄義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-6
+    span:
+    - body
+    - 3019
+    - 3019
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-7
+    span:
+    - body
+    - 3056
+    - 3056
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-8
+    span:
+    - body
+    - 3120
+    - 3120
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-9
+    span:
+    - body
+    - 5686
+    - 5686
+  label: 普法義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-10
+    span:
+    - body
+    - 5693
+    - 5693
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-11
+    span:
+    - body
+    - 5825
+    - 5825
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-12
+    span:
+    - body
+    - 5837
+    - 5837
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-13
+    span:
+    - body
+    - 7454
+    - 7454
+  label: 發菩提心義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-14
+    span:
+    - body
+    - 7463
+    - 7463
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-15
+    span:
+    - body
+    - 7515
+    - 7515
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-16
+    span:
+    - body
+    - 7532
+    - 7532
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-17
+    span:
+    - body
+    - 9191
+    - 9191
+  label: 實際義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-18
+    span:
+    - body
+    - 9198
+    - 9198
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-19
+    span:
+    - body
+    - 9223
+    - 9223
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-20
+    span:
+    - body
+    - 9237
+    - 9237
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-21
+    span:
+    - body
+    - 10915
+    - 10915
+  label: 如如義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-22
+    span:
+    - body
+    - 10922
+    - 10922
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-23
+    span:
+    - body
+    - 11013
+    - 11013
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0121_X_002-mulu-24
+    span:
+    - body
+    - 11081
+    - 11081
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 10491
+  label: 華嚴經文義要決問答卷第三二科入
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 法界義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-3
+    span:
+    - body
+    - 82
+    - 82
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-4
+    span:
+    - body
+    - 314
+    - 314
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-5
+    span:
+    - body
+    - 4795
+    - 4795
+  label: 一乘義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-6
+    span:
+    - body
+    - 4802
+    - 4802
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-7
+    span:
+    - body
+    - 5147
+    - 5147
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0121_X_003-mulu-8
+    span:
+    - body
+    - 5292
+    - 5292
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15661
+  label: 華嚴經文義要決問答卷第四五科入
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 分教義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-3
+    span:
+    - body
+    - 415
+    - 415
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-4
+    span:
+    - body
+    - 1417
+    - 1417
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-5
+    span:
+    - body
+    - 3974
+    - 3974
+  label: 十住義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-6
+    span:
+    - body
+    - 3981
+    - 3981
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-7
+    span:
+    - body
+    - 4367
+    - 4367
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-8
+    span:
+    - body
+    - 4476
+    - 4476
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-9
+    span:
+    - body
+    - 5849
+    - 5849
+  label: 十行義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-10
+    span:
+    - body
+    - 5856
+    - 5856
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-11
+    span:
+    - body
+    - 6165
+    - 6165
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-12
+    span:
+    - body
+    - 6272
+    - 6272
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-13
+    span:
+    - body
+    - 8271
+    - 8271
+  label: 十迴向義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-14
+    span:
+    - body
+    - 8279
+    - 8279
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-15
+    span:
+    - body
+    - 9151
+    - 9151
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-16
+    span:
+    - body
+    - 9305
+    - 9305
+  label: 第三問答分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-17
+    span:
+    - body
+    - 10530
+    - 10530
+  label: 十地義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-18
+    span:
+    - body
+    - 10537
+    - 10537
+  label: 第一釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-19
+    span:
+    - body
+    - 12087
+    - 12087
+  label: 第二出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0121_X_004-mulu-20
+    span:
+    - body
+    - 12460
+    - 12460
+  label: 第三問答分別
+  type: mulu
+  level: 1
+hash: sha256:fdee2ca7fdff1f1b5d33235ac532955bfd24848258e60a22f42ca203a9a32e35
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
